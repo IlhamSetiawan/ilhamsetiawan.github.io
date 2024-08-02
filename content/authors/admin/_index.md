@@ -125,7 +125,8 @@ skills:
         percent: 100
         icon: cat
       - name: Photography
-        description: ''
+        description: ''/usr/bin/fish
+
         percent: 80
         icon: camera
 
